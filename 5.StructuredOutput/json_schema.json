@@ -1,0 +1,10 @@
+{
+    "title": "Student",
+    "description": "A review of a product by a user",
+    "type": "object",
+    "properties": {
+        "name": "string",
+        "age": "integer"
+    },
+    "required": ["name"]
+}

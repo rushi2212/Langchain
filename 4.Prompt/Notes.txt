@@ -1,0 +1,7 @@
+pip install streamlit
+
+python -m streamlit run prompt_ui.py
+
+pip install langchain-openai
+
+pip install dotenv
